@@ -34,13 +34,13 @@
          at https://developer.here.com/develop/mobile-sdks-->
         <meta-data
             android:name="com.here.android.maps.appid"
-            android:value="dI4OVibvD9N0SJs4JohB" />
+            android:value="YOUR APPID" />
         <meta-data
             android:name="com.here.android.maps.apptoken"
-            android:value="QU1ded3sgwdzCbB9bFbeQg" />
+            android:value="YOUR TOKEN" />
         <meta-data
             android:name="com.here.android.maps.license.key"
-            android:value="K7Cy6zUzjlzhNVWIfs6GPb47uuLgRdnGjZ9rsb4y+u8SsmIlaJzcP0+XV6f/GxAT8g0qW7gEHCP49XA5nxLgT+pffoIHTLWkBD3vA1cK5xHZRBhVPXeezFyXa9LroN7mca6UcOtVS3ZMOo12kNrc3d/CzGWySPHcXJ8aS+ngwK/zfVC6HALDoVKvOICLDgK9b5t2Mpr/CGeZ046Hs5LMn6a1/jRz5zqfpc2NtkG4w0v1v8+SxTH3Y1lOgguLDwOuZapIGhgFpBn/Nso9hOc/JHUsfTwSJf9xJcbyfDozZcX4kUm6egI2zYo54qw5aXqTBc4hUaHXxcN8or9Qi/5U4tDacxos13w06aDuXUbaFjzTmiZTEpCxFygEKxCQSrS6RSP66reS/FRzr3b7kL8N7Efya54sLfJ+cMAfOWUPdHRwObDkwA8kvWHiGuAXG6dYbo0+ZJFuS9qSa/P7v2AG33/1p1zOalcM+6Vnx0O6YA/MMzKAgt1+LKjVaHQCwqhruC4VIu56sqC8rT48+y6Ckg0aMZ940gb9sH9QVTyTsBzTkcgoSUb2DGQJIy4fR6xfrouQinMPIsPudeguNDhehbNHNzuqHESKpNNrg+pmVVwQU2psEWHqZqGlngwswWbT5cTjkuV74if4OpZTBSYzkcZqHxe7iR1fhIAOKytFwPY=" />
+            android:value="YOUR LICENSE KEY" />
 
 
          <!--Developers should always provide custom values for each of {YOUR_LABEL_NAME}.
