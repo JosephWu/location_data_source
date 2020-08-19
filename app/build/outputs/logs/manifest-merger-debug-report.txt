@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+MERGED from [:HERE-sdk:] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0b084181cddd71eb3107df0bb5c704cd/HERE-sdk/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/bfd9fba511f44155fb89f256b829492f/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/04971a5fee443d70ab084fc5e1fdb4c5/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7a18c3cd04002587231f053366cdc255/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:70-129
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:1-79:12
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:9:22-71
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:13:5-101
+	android:maxSdkVersion
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:13:22-48
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:13:49-99
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:15:22-78
+application
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:17:5-77:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/bfd9fba511f44155fb89f256b829492f/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/bfd9fba511f44155fb89f256b829492f/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/04971a5fee443d70ab084fc5e1fdb4c5/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/04971a5fee443d70ab084fc5e1fdb4c5/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7a18c3cd04002587231f053366cdc255/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7a18c3cd04002587231f053366cdc255/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:21:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:19:9-43
+	android:icon
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:23:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:22:9-69
+activity#com.here.android.example.basicpositioningsolution.BasicPositioningActivity
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:25:19-51
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:25:52-92
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:29:27-74
+meta-data#com.here.android.maps.appid
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:35:9-37:52
+	android:value
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:36:13-55
+meta-data#com.here.android.maps.apptoken
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:38:9-40:54
+	android:value
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:39:13-58
+meta-data#com.here.android.maps.license.key
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:41:9-43:716
+	android:value
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:43:13-713
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:42:13-61
+service#com.here.android.mpa.service.MapService
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:48:9-55:19
+	android:label
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:50:13-46
+	android:exported
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:49:13-67
+intent-filter#action:name:com.here.android.mpa.service.MapService.v3
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:52:13-54:29
+action#com.here.android.mpa.service.MapService.v3
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:53:17-92
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:53:25-82
+service#com.here.services.internal.LocationService
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:60:9-65:19
+	android:process
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:64:13-38
+	android:enabled
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:63:13-70
+receiver#com.here.services.internal.BootReceiver
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:70:9-76:20
+	android:exported
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:71:13-67
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:73:13-75:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:74:17-79
+	android:name
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml:74:25-76
+uses-sdk
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+MERGED from [:HERE-sdk:] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0b084181cddd71eb3107df0bb5c704cd/HERE-sdk/AndroidManifest.xml:7:5-9:41
+MERGED from [:HERE-sdk:] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0b084181cddd71eb3107df0bb5c704cd/HERE-sdk/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/bfd9fba511f44155fb89f256b829492f/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/bfd9fba511f44155fb89f256b829492f/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/04971a5fee443d70ab084fc5e1fdb4c5/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/04971a5fee443d70ab084fc5e1fdb4c5/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7a18c3cd04002587231f053366cdc255/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7a18c3cd04002587231f053366cdc255/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josephwu/Desktop/metropia/metroopia-positioning/positioning0817/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/cad243eba5d5e9d30aead8f2caf75568/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/d810550874c071a7f5afc391a91fdc61/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/josephwu/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
