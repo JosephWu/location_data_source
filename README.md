@@ -2,11 +2,13 @@
 
 ## Prerequisites
 
-Update manifest file with proper license key as described above in root [README file](../README.md).
+1. Update manifest file with proper license key as described above in root [README file](../README.md).
+2. Put your HERE-SDK.aar in the app > libs folders.
 
 ## Purpose
 
-Gives a simple example of Map Positioning usage. More details in [Positioning Documentation](https://developer.here.com/documentation/android-premium/dev_guide/topics/positioning-intro.html).
+1. Gives a simple example of Map Positioning usage. More details in [Positioning Documentation](https://developer.here.com/documentation/android-premium/dev_guide/topics/positioning-intro.html).
+2. Change the Location data source of google map and a fake location generator.
 
 ## Example
 
